@@ -1,0 +1,2 @@
+Create a new Javascript file called index.js and link to it from the index.html file.
+In the Dicee project, there is a folder called images, add the images of dice6.png as the source to both of the <img> elements.
